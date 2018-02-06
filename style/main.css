@@ -259,9 +259,6 @@ footer section:first-child a i {
 }
 /*--------TABLET--------*/
 @media (min-width: 64em) {
-  body {
-    background: #ddd;
-  }
   header {
     max-width: 60em;
     margin: 0 auto;
