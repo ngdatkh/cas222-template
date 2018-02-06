@@ -257,7 +257,7 @@ footer section:first-child a i {
     padding: 1.5em 3em;
   }
 }
-/*--------TABLET--------*/
+/*--------DESKTOP--------*/
 @media (min-width: 64em) {
   header {
     max-width: 60em;
@@ -275,7 +275,7 @@ footer section:first-child a i {
     width: 60%;
   }
   main > section:last-of-type {
-    float: right;
+    sfloat: right;
     width: 35%;
     margin-top: 1em;
   }
