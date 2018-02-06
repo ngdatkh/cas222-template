@@ -275,7 +275,7 @@ footer section:first-child a i {
     width: 60%;
   }
   main > section:last-of-type {
-    sfloat: right;
+    float: right;
     width: 35%;
     margin-top: 1em;
   }
